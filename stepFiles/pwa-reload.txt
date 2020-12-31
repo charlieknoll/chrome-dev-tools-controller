@@ -1,0 +1,3 @@
+clearSiteData
+wait 1000
+goto "url": "http://localhost:8081"
